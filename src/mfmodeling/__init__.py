@@ -1,1 +1,2 @@
-from .mfmodeling import *
+from .SingleGP_GPy import *
+from .NARGP_GPy import *
