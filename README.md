@@ -16,6 +16,7 @@ The following is an explanation on the simple usage of NARGP (Nonlinear AutoRegr
 ```
 2. Instantiate the NARGP object using the above dataset.
 ```
+    from mfmodeling import NARGP
     model_nargp = NARGP(data_list = data_list)
 ```
 3. Optimize hyperparameters of the kernel function in NARGP.
