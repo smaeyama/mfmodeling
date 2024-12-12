@@ -30,5 +30,5 @@ The following is an explanation on the simple usage of NARGP (Nonlinear AutoRegr
 where ```mean``` and ```var``` are the prediction of posterior mean and variance at your evaluating position ```x_pred```.
 
 ## Reference
-(Preprint) [S. Maeyama, M. Honda, E. Narita, S. Toda, "Multi-Fidelity Information Fusion for Turbulent Transport Modeling in Magnetic Fusion Plasma", Scientific Reports 14, 28242 (2024).](https://doi.org/10.1038/s41598-024-78394-3)
+[S. Maeyama, M. Honda, E. Narita, S. Toda, "Multi-Fidelity Information Fusion for Turbulent Transport Modeling in Magnetic Fusion Plasma", Scientific Reports 14, 28242 (2024).](https://doi.org/10.1038/s41598-024-78394-3)
 [![doi](https://img.shields.io/badge/doi-10.1038/s41598--024--78394--3-5077AB.svg)](https://doi.org/10.1038/s41598-024-78394-3)
