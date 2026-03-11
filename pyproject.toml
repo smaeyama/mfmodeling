@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mfmodeling"
+version = "1.0.1"
+description = "Multi-fidelity modeling using Gaussian process regression"
+authors = [
+    { name = "Shinya Maeyama", email = "maeyama.shinya@nifs.ac.jp" }
+]
+readme = "README.md"
+license = {text = "MIT License"}
+requires-python = ">=3.7"
+
+dependencies = [
+    "numpy>=2.4.3",
+    "torch>=2.7.1",
+    "gpytorch>=1.15.2",
+]
+
+[project.optional-dependencies]
+examples = [
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+    "scikit_learn>=1.8.0",
+]
+
+[tool.setuptools]
+packages = ["mfmodeling"]
+package-dir = {"" = "src"}
+

@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# Optional dependencies (examples)
+matplotlib>=3.10.8
+pandas>=3.0.1
+scikit_learn>=1.8.0
