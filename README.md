@@ -6,7 +6,7 @@ This project is motivated to apply multi-fidelity data fusion algorithms to the 
 The developed module will be available as a general tool for multi-fidelity regression problems.
 
 ### Usage
-**mfmodeling** module requires external packages: **numpy**, **GPy**.
+**mfmodeling** module requires external packages: **numpy**, **GPyTorh**.
 
 The following is an explanation on the simple usage of NARGP (Nonlinear AutoRegressive Gaussian Process regression [P. Perdikaris (2017)]) as a multi-fidelity regression algorithm. See also ```tests/NARGP_example_2d/Demo_May2024_NARGP_example_2d.ipynb```.
 1. Prepare multi-fidelity datasets as a list of each fidelity data.
