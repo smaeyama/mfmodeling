@@ -4,8 +4,8 @@
 # In[1]:
 
 
-import sys
-sys.path.append("../../src/")
+# import sys
+# sys.path.append("../../src/")
 from mfmodeling import SingleGP
 help(SingleGP)
 
