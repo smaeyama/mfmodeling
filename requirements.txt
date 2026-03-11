@@ -1,0 +1,4 @@
+# Core dependencies
+numpy>=2.4.3
+torch>=2.7.1
+gpytorch>=1.15.2
