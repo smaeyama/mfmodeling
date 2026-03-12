@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mfmodeling"
-version = "1.0.1"
+version = "1.0.2"
 description = "Multi-fidelity modeling using Gaussian process regression"
 authors = [
     { name = "Shinya Maeyama", email = "maeyama.shinya@nifs.ac.jp" }
