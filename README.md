@@ -20,7 +20,7 @@ pip install mfmodeling
 Or install the latest development version from GitHub:
 
 ```bash
-pip install git+https://github.com/maeyama/mfmodeling.git
+pip install git+https://github.com/smaeyama/mfmodeling.git
 ```
 
 ---
